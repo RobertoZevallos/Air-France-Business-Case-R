@@ -1,4 +1,4 @@
-# Air-France-Business-Case-R
+# Air France Business Case in R
 In this case we were aiming to create a new marketing strategy for the European Airline Air France. We came up with a couple of ideas summarized in this video: [See our video here](https://youtu.be/ipFLvqWsyac).
 
 <img src="img/AirFrance.png?raw=true"/>
