@@ -12,6 +12,6 @@ After looking into the data, we saw that the keyword feature seems to be importa
 
 ## The team
 This was done as a team project with:
-- [Tim](https://github.com/TimBstn)
-- [Isa](https://github.com/IsaRicci)
-- [Annie](https://github.com/Jirapar/Jirapar)
+- [Tim Bastian](https://github.com/TimBstn)
+- [Isabella Ricci](https://github.com/IsaRicci)
+- [Jirapar Tanglakdee - Annie](https://github.com/Jirapar)
